@@ -1,0 +1,35 @@
+nav {
+  width: 100%;
+  padding: 2rem 0;
+  // background-color: red;
+  z-index: 4;
+  display: flex;
+  justify-content: space-between;
+  div.about {
+    p {
+      font-size: 60%;
+      color: $special_clr;
+      font-family: "firamono-bold";
+      margin-bottom: 16px;
+    }
+    h1 {
+      font-size: 180%;
+      color: $dark_clr_01;
+      font-family: "inter-thin";
+      text-transform: uppercase;
+    }
+  }
+  ul {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    a {
+      text-decoration: none;
+
+      li {
+        font-size: 60%;
+        color: $dark_clr_01;
+      }
+    }
+  }
+}

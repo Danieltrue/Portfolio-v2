@@ -1,0 +1,123 @@
+@font-face {
+  font-family: "inter-black";
+  src: url("../../vendors/fonts/inter/Inter-Black.ttf");
+}
+@font-face {
+  font-family: "inter-bold";
+  src: url("../../vendors/fonts/inter/Inter-Bold.ttf");
+}
+@font-face {
+  font-family: "inter-extrabold";
+  src: url("../../vendors/fonts/inter/Inter-ExtraBold.ttf");
+}
+@font-face {
+  font-family: "inter-extralight";
+  src: url("../../vendors/fonts/inter/Inter-ExtraLight.ttf");
+}
+@font-face {
+  font-family: "inter-light";
+  src: url("../../vendors/fonts/inter/Inter-Light.ttf");
+}
+@font-face {
+  font-family: "inter-medium";
+  src: url("../../vendors/fonts/inter/Inter-Medium.ttf");
+}
+@font-face {
+  font-family: "inter=regular";
+  src: url("../../vendors/fonts/inter/Inter-Regular.ttf");
+}
+@font-face {
+  font-family: "inter-semibold";
+  src: url("../../vendors/fonts/inter/Inter-SemiBold.ttf");
+}
+@font-face {
+  font-family: "inter-thin";
+  src: url("../../vendors/fonts/inter/Inter-Thin.ttf");
+}
+
+//Fira - Mono
+
+@font-face {
+  font-family: "firamono-bold";
+  src: url("../../vendors/fonts/firamono/FiraMono-Bold.ttf");
+}
+@font-face {
+  font-family: "firamono-medium";
+  src: url("../../vendors/fonts/firamono/FiraMono-Medium.ttf");
+}
+@font-face {
+  font-family: "firamono-regular";
+  src: url("../../vendors/fonts/firamono/FiraMono-Regular.ttf");
+}
+
+// Mono space
+
+@font-face {
+  font-family: "monospace";
+  src: url("../../vendors/fonts/monospace/Monospace.ttf");
+}
+@font-face {
+  font-family: "monospace";
+  src: url("../../vendors/fonts/monospace/MonospaceBold.ttf");
+}
+@font-face {
+  font-family: "monospace";
+  src: url("../../vendors/fonts/monospace/MonospaceOblique.ttf");
+}
+
+//SF Pro
+
+@font-face {
+  font-family: "sfpro-black";
+  src: url("../../vendors/fonts/sfpro/SF-Pro-Display-Black.otf");
+}
+@font-face {
+  font-family: "sfpro-heavy";
+  src: url("../../vendors/fonts/sfpro/SF-Pro-Display-Heavy.otf");
+}
+@font-face {
+  font-family: "sfpro-bold";
+  src: url("../../vendors/fonts/sfpro/SF-Pro-Display-Bold.otf");
+}
+@font-face {
+  font-family: "sfpro-medium";
+  src: url("../../vendors/fonts/sfpro/SF-Pro-Display-Medium.otf");
+}
+@font-face {
+  font-family: "sfpro-regular";
+  src: url("../../vendors/fonts/sfpro/SF-Pro-Text-Regular.otf");
+}
+@font-face {
+  font-family: "sfpro-semibold";
+  src: url("../../vendors/fonts/sfpro/SF-Pro-Text-Semibold.otf");
+}
+
+// SF Mono
+
+@font-face {
+  font-family: "sfmono-bold";
+  src: url("../../vendors/fonts/sfmono/SFMonoBold.otf");
+}
+@font-face {
+  font-family: "sfmono-heavy";
+  src: url("../../vendors/fonts/sfmono/SFMonoHeavy.otf");
+}
+@font-face {
+  font-family: "sfmono-light";
+  src: url("../../vendors/fonts/sfmono/SFMonoLight.otf");
+}
+@font-face {
+  font-family: "sfmono-medium";
+  src: url("../../vendors/fonts/sfmono/SFMonoMedium.otf");
+}
+@font-face {
+  font-family: "sfmono-regular";
+  src: url("../../vendors/fonts/sfmono/SFMonoRegular.otf");
+}
+@font-face {
+  font-family: "sfmono-semibold";
+  src: url("../../vendors/fonts/sfmono/SFMonoSemibold.otf");
+}
+
+$font-sans: "inter", sans-serif;
+$font-mono: "firamono", "monospace", "firacode";

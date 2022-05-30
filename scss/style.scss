@@ -1,0 +1,23 @@
+@import "./components/color";
+@import "./components/font";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: $dark_clr;
+  color: #fff;
+  font-size: 20px;
+  font-family: $font-sans;
+}
+
+//Variable
+$easing: cubic-bezier(0.075, 0.82, 0.165, 1);
+
+@import "./components/row";
+@import "./components/button";
+@import "./components/header";
+@import "./components/nav";
